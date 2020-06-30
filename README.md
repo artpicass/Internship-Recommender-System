@@ -1,5 +1,5 @@
 # Internship-Recommender-System
-**Our little (but exciting) Machine Learning internship project**
+**Our little (but exciting) Machine Learning internship project.**
 The aim of this project is to learn the various methods that can be used for recommendation systems and do a comparitive study of these methods.
 
 **Dataset used**
