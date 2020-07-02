@@ -14,3 +14,7 @@ The aim of this project is to learn the various methods that can be used for rec
 #### Points to remember while uploading files in our repository:
 * Each member should create their own personal folder within this repository where they can upload their Jupyter notebooks, Python files and play around with the dataset
 * An additional folder should be created where the members (as a group) decide on the best and most important things they find in their individual notebooks and after reaching a consensus add it to the final Jupyter notebook that will be showcased with the final report.
+
+**Useful Resources**
+* [Recommender Systems Handbook](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf)
+* [An Item–Item Collaborative Filtering Recommender System](https://www.mdpi.com/2504-2289/3/3/39/pdf)
